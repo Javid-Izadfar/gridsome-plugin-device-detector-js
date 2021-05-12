@@ -13,7 +13,8 @@
   "keywords": [
     "vue",
     "gridsome",
-    "device"
+    "device",
+    "gridsome-plugin"
   ],
   "author": "Javid Izadfar",
   "license": "MIT",
